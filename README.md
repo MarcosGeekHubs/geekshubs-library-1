@@ -1,4 +1,4 @@
-# 📚 GeeksHubs Library Demo App
+# 📚 GeeksHubs Library Demo App .
 
 ![Pull Request](https://github.com/rubencougil/geekshubs-library/workflows/Pull%20Request/badge.svg)
 ![Publish](https://github.com/rubencougil/geekshubs-library/workflows/Publish/badge.svg)
